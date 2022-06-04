@@ -15,7 +15,7 @@
 
   .introduction {
     display: flex;
-    gap: .25em;
+    gap: .4px;
     justify-content: center;
     color: aliceblue;
     font-family: consolas;
@@ -27,6 +27,7 @@
 
   }
    */
+   
   .keyboard {
     display: grid;
     grid-template-columns: repeat(20, minmax(auto, 1.25em));
