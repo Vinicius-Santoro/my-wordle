@@ -21,7 +21,11 @@
     font-family: consolas;
     font-size: large;
   }
-  
+
+  /* .about {
+
+  }
+   */
   .keyboard {
     display: grid;
     grid-template-columns: repeat(20, minmax(auto, 1.25em));
