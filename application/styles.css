@@ -52,7 +52,7 @@
     color: white;
     fill: white;
     text-transform: uppercase;
-    border-radius: .25em;
+    border-radius: 4px;
     cursor: pointer;
     user-select: none;
   }
