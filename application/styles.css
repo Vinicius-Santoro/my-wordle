@@ -92,10 +92,11 @@
     margin-bottom: 16px;
   }
   
+  /* Convert from here to below*/
   .tile {
-    font-size: 2em;
+    font-size: 40px;
     color: white;
-    border: .05em solid hsl(240, 2%, 23%);
+    border: .08px solid hsl(240, 2%, 23%);
     text-transform: uppercase;
     font-weight: bold;
     display: flex;
