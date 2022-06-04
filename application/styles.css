@@ -4,29 +4,35 @@
   }
   
   body {
-    background-color: hsl(240, 3%, 7%);
+    background-color: rgb(17, 17, 18);
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 500px;
     margin: 0;
-    padding: 1em;
-    font-size: clamp(.5rem, 2.5vmin, 1.5rem);
+    padding: 16px;
+    font-size: clamp(8px, 40px, 24px);
   }
 
   .introduction {
     display: flex;
-    gap: .25em;
+    gap: .4px;
     justify-content: center;
     color: aliceblue;
     font-family: consolas;
-    font-size: large;
+    font-size: 50px;
+    padding-bottom: 10px;
   }
-  
+
+  /* .about {
+
+  }
+   */
+   
   .keyboard {
     display: grid;
-    grid-template-columns: repeat(20, minmax(auto, 1.25em));
-    grid-auto-rows: 3em;
-    gap: .25em;
+    grid-template-columns: repeat(20, minmax(auto, 30px));
+    grid-auto-rows: 65px;
+    gap: 4px;
     justify-content: center;
   }
   
@@ -46,18 +52,13 @@
     color: white;
     fill: white;
     text-transform: uppercase;
-    border-radius: .25em;
+    border-radius: 4px;
     cursor: pointer;
     user-select: none;
   }
   
   .key.large {
     grid-column: span 3;
-  }
-  
-  .key > svg {
-    width: 1.75em;
-    height: 1.75em;
   }
   
   .key:hover, .key:focus {
@@ -85,10 +86,10 @@
     justify-content: center;
     align-content: center;
     flex-grow: 1;
-    grid-template-columns: repeat(5, 4em);
-    grid-template-rows: repeat(6, 4em);
-    gap: .25em;
-    margin-bottom: 1em;
+    grid-template-columns: repeat(5, 100px);
+    grid-template-rows: repeat(6, 100px);
+    gap: 4px;
+    margin-bottom: 16px;
   }
   
   .tile {
