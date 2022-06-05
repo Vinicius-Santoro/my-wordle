@@ -10,10 +10,7 @@
 
 ## _How to Play_
 
-- To play, just access this link: 
-``` 
-https://vinicius-santoro.github.io/my-wordle/
-```
+- To play, just access this link:  https://vinicius-santoro.github.io/my-wordle/
 
 ## _Informations_
 
