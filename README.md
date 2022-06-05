@@ -11,6 +11,13 @@
 ## _How to Play_
 
 - To play, just access this link: 
+``` 
+https://vinicius-santoro.github.io/my-wordle/
+```
+<h1></h1>
+
+## _Informations_
+
 - You can use your typing or use your keyboard to type the word.
 - The yellow color symbolizes that you have typed an existing character in the word, but it is in the wrong place.
 - A cor verde simboliza que você digitou um caractere existente na palavra e está no lugar certo;
