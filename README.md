@@ -14,7 +14,6 @@
 ``` 
 https://vinicius-santoro.github.io/my-wordle/
 ```
-<h1></h1>
 
 ## _Informations_
 
