@@ -6,10 +6,11 @@
 
 ## _This game was like this:_
 
-![so_long](https://user-images.githubusercontent.com/83036509/150965119-a96d5590-3971-43d0-959f-ee0d0f237d9e.gif)
-
-## _How to Install_
+![wordle](https://user-images.githubusercontent.com/83036509/172074178-2858e1fd-7dc7-4beb-a73a-633e8dc39bf0.gif)
 
 ## _How to Play_
 
-### _Controls_
+- To play, just access this link: 
+- You can use your typing or use your keyboard to type the word.
+- The yellow color symbolizes that you have typed an existing character in the word, but it is in the wrong place.
+- A cor verde simboliza que você digitou um caractere existente na palavra e está no lugar certo;
