@@ -67,6 +67,7 @@ let dictionary = [
     "causa",
     "prole",
     "paria",
+    "parea",
     "dizer",
     "detem",
     "tenaz",
