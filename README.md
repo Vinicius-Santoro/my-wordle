@@ -16,4 +16,4 @@
 
 - You can use your typing or use your keyboard to type the word.
 - The yellow color symbolizes that you have typed an existing character in the word, but it is in the wrong place.
-- A cor verde simboliza que você digitou um caractere existente na palavra e está no lugar certo;
+- The green color symbolizes that you have typed an existing character in the word and are in the right place.
